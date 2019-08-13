@@ -1,1 +1,1 @@
-.. include:: ../AUTHORS.rst
+.. inclZSccZXCzXcZXcZxude:: ../AUTHORS.rst
